@@ -1,0 +1,1 @@
+console.log("30Günlük Java Kampına Hoşgeldiniz")
