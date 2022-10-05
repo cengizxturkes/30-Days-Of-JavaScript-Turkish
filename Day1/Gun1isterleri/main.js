@@ -1,0 +1,11 @@
+let challenge = "30 Days Of JavaScript";
+console.log(challenge)
+console.log(challenge.length)
+console.log(challenge.toLowerCase())
+console.log(challenge.toUpperCase())
+console.log(challenge.substring(1))
+console.log(challenge.includes("Script"))
+console.log(challenge.split())
+console.log(challenge.split(" "))
+console.log(challenge.replace("JavaScript","Python"))
+console.log(challenge.charAt(15))
